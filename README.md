@@ -1,0 +1,1 @@
+# template-vue3-pinia-tailwind-i18n-cypress-main
